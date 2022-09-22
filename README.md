@@ -315,6 +315,11 @@ EXPERIMENT-19(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIME
 ![image](https://user-images.githubusercontent.com/112924718/191778034-59965b9d-32d4-424d-8c0a-e9a7d34b13d3.png)
 
 
+## EXPERIEMNNT-20
+EXPERIEMNT-20(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIMENT-20)
+## OUTPUT
+
+![image](https://user-images.githubusercontent.com/112924718/191778824-459aec60-3ea2-429c-bb2c-c2f4f1e95af7.png)
 
 
 
