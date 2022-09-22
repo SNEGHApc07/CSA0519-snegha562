@@ -328,17 +328,15 @@ EXPERIEMNNT-21(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIM
 
 1.
 
-![image](https://user-images.githubusercontent.com/112924718/191783066-eaaee832-5cc4-4543-a4a8-a25359e8c520.png)
-
+![image](https://user-images.githubusercontent.com/112924718/191788227-103a8e88-4782-4fa6-8b61-6075b89c711b.png)
 
 2.
 
-![image](https://user-images.githubusercontent.com/112924718/191783112-70434c7d-3d42-4c56-95d0-aa94be17b2d6.png)
-
+![image](https://user-images.githubusercontent.com/112924718/191788350-e13d5245-cc64-496f-af28-1e94b7dcd995.png)
 
 3.
 
-![image](https://user-images.githubusercontent.com/112924718/191783171-b4c2f7d2-d811-4b38-b024-4141b52faf01.png)
+![image](https://user-images.githubusercontent.com/112924718/191788479-3533c1cc-ae31-417c-b98a-f023799bb953.png)
 
 
 ## EXPERIEMNNT-22
@@ -347,15 +345,16 @@ EXPERIMENT-22(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIME
 
 1.
 
-![image](https://user-images.githubusercontent.com/112924718/191783333-470501fe-4818-436a-9763-cefb8ca2c7c9.png)
+![image](https://user-images.githubusercontent.com/112924718/191788618-2671eb75-943a-4fb1-b575-a78bd3eb23ec.png)
 
 2.
 
-![image](https://user-images.githubusercontent.com/112924718/191783403-8a60cb92-a4c0-4696-a137-d8c452c89ed7.png)
+![image](https://user-images.githubusercontent.com/112924718/191788713-cdad8a18-3086-4cf0-ab58-1b896edba193.png)
 
 3.
 
-![image](https://user-images.githubusercontent.com/112924718/191783444-f956a6b4-3633-422f-aedc-de130782b6f5.png)
+![image](https://user-images.githubusercontent.com/112924718/191788830-d77b55d8-34ec-46f4-8637-e41a78430942.png)
+
 
 
 
