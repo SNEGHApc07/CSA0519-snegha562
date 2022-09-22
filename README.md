@@ -301,7 +301,11 @@ EXPERIMENT-17(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIME
 ![image](https://user-images.githubusercontent.com/112924718/191680406-58bd9923-718f-48ff-958b-eac751663432.png)
 
 
+## EXPERIMENT-18
+EXPERIMENT-18(
+## OUTPUT
 
+![Uploading image.png…]()
 
 
 
