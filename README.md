@@ -356,6 +356,39 @@ EXPERIMENT-22(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIME
 ![image](https://user-images.githubusercontent.com/112924718/191788830-d77b55d8-34ec-46f4-8637-e41a78430942.png)
 
 
+## EXPERIMENT-23
+EXPERIMENT-23(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIMENT-23)
+
+![image](https://user-images.githubusercontent.com/112924718/191903187-4f912ed8-6c96-4972-b716-32a8fc2e0b8c.png)
+
+## EXPERIMENT-24
+EXPERIMENT-24(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIMENT-24)
+
+![image](https://user-images.githubusercontent.com/112924718/191903264-f15d4e04-ad8d-4027-b111-d253e202e4e1.png)
+
+
+## EXPERIMENT-25
+EXPERIMENT-25(https://github.com/SNEGHApc07/CSA0519-snegha562/blob/main/EXPERIMENT-25)
+
+1.
+
+![image](https://user-images.githubusercontent.com/112924718/191903412-ef4b5f37-52d4-405b-ab3d-28641bf9b0f5.png)
+
+2.
+
+![image](https://user-images.githubusercontent.com/112924718/191903411-77bdbbc2-e203-4320-9c01-200749b1e39d.png)
+
+3.
+
+![image](https://user-images.githubusercontent.com/112924718/191903415-b14b1fa5-010f-4ad2-8b9c-4129cbbaaedd.png)
+
+4.
+
+![image](https://user-images.githubusercontent.com/112924718/191903445-b7dd5a00-cd24-4112-b0e8-edd53a2ce326.png)
+
+5.
+
+![image](https://user-images.githubusercontent.com/112924718/191903479-b01788be-af24-4699-9d49-4f3042ef66d9.png)
 
 
 
